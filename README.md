@@ -3,7 +3,7 @@ A deep neural network application that determines the credibility of a social me
 post given its `source` for example Facebook or Instagram and it's `content`.
 
 ## Reference links
-- [veribot.streamlit.com](https://veribot.streamlit.com) - the deployed app on Streamlit
+- [veribot.streamlit.com](https://veribot.streamlit.app/) - the deployed app on Streamlit
 - [Google Colab notebook](https://colab.research.google.com/drive/1HUYQWTKNbrPVC56BbzRlkxeOvZFl07zk?usp=sharing) - 
 used to scrape the data and train the model.
 - [Youtube video](https://youtube.com) - explanation of how the app works 

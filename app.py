@@ -49,8 +49,8 @@ st.divider()
 
 """
 ## Reference Links
-- [veribot.streamlit.com](https://veribot.streamlit.com) - the deployed app on Streamlit
+- [Github repository for project](https://github.com/chiroro-jr/veribot) - This contains all the code for this app (jupyter notebooks, 
+datasets, saved models and so on.)
 - [Google Colab notebook](https://colab.research.google.com/drive/1HUYQWTKNbrPVC56BbzRlkxeOvZFl07zk?usp=sharing) - 
-used to scrape the data and train the model.
-- [Youtube video](https://youtube.com) - explanation of how the app works 
+used to scrape the data and train the model. 
 """

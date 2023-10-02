@@ -15,6 +15,8 @@ used to scrape the data and train the model.
 - Tensorflow and keras
 - Numpy
 - NLTK
+- SKLearn
+> For in depth explanations of these tools read the contents of [tools.md](tools.md)
 
 ## Running the app locally on your machine
 1. Make sure you have Python installed, specifically Python version `3.11` as it is the one used in this project.

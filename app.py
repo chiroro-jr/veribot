@@ -22,7 +22,7 @@ st.divider()
 ### Get a classification
 """
 source = st.text_input("Post source", placeholder="For example: Facebook, Instagram, Twitter")
-content = st.text_area("Post content", placeholder="I said something of Facebook the other day. It may or may not be "
+content = st.text_area("Post content", placeholder="Something said on social media. It may or may not be "
                                                    "credible.")
 
 if st.button("Classify", type="secondary"):

@@ -7,7 +7,7 @@ can view the architecture of the model in [this image.](./models/classifier.png)
 - [veribot.streamlit.app](https://veribot.streamlit.app/) - the deployed app on Streamlit
 - [Google Colab notebook](https://colab.research.google.com/drive/1HUYQWTKNbrPVC56BbzRlkxeOvZFl07zk?usp=sharing) - 
 used to scrape the data and train the model.
-- [Youtube video](https://youtube.com) - explanation of how the app works 
+- [Youtube video](https://youtu.be/3YhTOIVgGlw?si=trsVkJYq48GQTl06) - explanation of how the app works 
 
 ## Tools used to build the application
 - Python

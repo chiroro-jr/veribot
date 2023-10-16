@@ -1,6 +1,7 @@
 # Veribot
 A deep neural network application that determines the credibility of a social media
-post given its `source` for example Facebook or Instagram and it's `content`.
+post given its `source` for example Facebook or Instagram and it's `content`. You
+can view the architecture of the model in [this image.](./models/classifier.png)
 
 ## Reference links
 - [veribot.streamlit.com](https://veribot.streamlit.app/) - the deployed app on Streamlit

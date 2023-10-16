@@ -57,9 +57,9 @@ def generate_credibility_message(result_dict):
     inverted_probability = 1 - probability
 
     if classification == 'credible':
-        message = f"Based on the analysis, the probability that the source is credible is approximately `{inverted_probability * 100:.2f}%`. This points to a strong indication of the source being **credible**. However, you still need to check multiple source to make sure you are getting the correct information."
+        message = f"Based on the analysis, the probability that the source is credible is approximately `{inverted_probability * 100:.2f}%`. This points to an indication of the source being **credible**. However, you still need to check multiple sources and make sure you are getting the correct information."
     elif classification == 'incredible':
-        message = f"Based on the analysis, the probability that the source is credible is approximately `{inverted_probability * 100:.2f}%`. This points to a strong indication of the source **not being credible**. Do some research and check your sources to make sure you get the correct information."
+        message = f"Based on the analysis, the probability that the source is credible is approximately `{inverted_probability * 100:.2f}%`. This points to an indication of the source **not being credible**. Do some research and check your sources to make sure you are getting the correct information."
     else:
         message = "Invalid classification. Please provide 'credible' or 'not credible'."
 

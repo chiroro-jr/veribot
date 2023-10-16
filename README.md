@@ -4,7 +4,7 @@ post given its `source` for example Facebook or Instagram and it's `content`. Yo
 can view the architecture of the model in [this image.](./models/classifier.png)
 
 ## Reference links
-- [veribot.streamlit.com](https://veribot.streamlit.app/) - the deployed app on Streamlit
+- [veribot.streamlit.app](https://veribot.streamlit.app/) - the deployed app on Streamlit
 - [Google Colab notebook](https://colab.research.google.com/drive/1HUYQWTKNbrPVC56BbzRlkxeOvZFl07zk?usp=sharing) - 
 used to scrape the data and train the model.
 - [Youtube video](https://youtube.com) - explanation of how the app works 

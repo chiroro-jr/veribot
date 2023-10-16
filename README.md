@@ -26,7 +26,7 @@ For instructions on how to install
 Python, visit [this website](https://realpython.com/installing-python/).
 2. Make sure you have Pipenv install. Pipenv is the package manager and virtual environment manager
 used in this project. You can check if Pipenv is installed using `pipenv --version`. This will display
-the version of Pipenv install. For instruction on how to install Pipenv, visit [this website](https://www.infoworld.com/article/3561758/how-to-manage-python-projects-with-pipenv.html).
+the version of Pipenv install. For instructions on how to install Pipenv, visit [this website](https://www.infoworld.com/article/3561758/how-to-manage-python-projects-with-pipenv.html).
 3. Clone this repository by running the command below:
 ```shell
 git clone https://github.com/chiroro-jr/veribot.git
